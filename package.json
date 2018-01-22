@@ -1,0 +1,22 @@
+{
+  "name": "scripting-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petersabol410/scripting-http-request.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petersabol410/scripting-http-request/issues"
+  },
+  "homepage": "https://github.com/petersabol410/scripting-http-request#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
